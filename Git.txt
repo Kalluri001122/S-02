@@ -1,1 +1,2 @@
 git is a source code management tool 
+git used to push  the code from local repo to remote repo
