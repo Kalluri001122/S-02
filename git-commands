@@ -3,3 +3,5 @@ git add (folder name )
 git commit -m 'comment'
 git status 
 git push origin main
+git pull origin main
+git fetch origin  main
